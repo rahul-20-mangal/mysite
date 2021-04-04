@@ -26,6 +26,7 @@ SECRET_KEY = '@h#u=cmm)q(pdqahj9$ndymdy2+^zx@9mxd+t1s&+9pfoaeq6&'
 DEBUG = False
 
 ALLOWED_HOSTS = ['testpress-mysite.herokuapp.com', '127.0.0.1']
+                #   testpress-mysite.herokuapp.com
 
 
 # Application definition
